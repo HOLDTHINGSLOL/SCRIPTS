@@ -9,7 +9,7 @@
 
 
 
-visualizer = false -- Change true to false to get rid of the visualizer
+visualizer = true -- Change true to false to get rid of the visualizer
 -- WARNING REMOVING THE VISUALIZER WILL STOP SOME THINGS FROM HAPPENING LIKE THE RECOLOR OF SLASHES AND THE HP TRACKER
 
 local rep = game:GetService("ReplicatedStorage")
